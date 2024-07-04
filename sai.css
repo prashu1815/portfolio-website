@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+.prashu{
+    height:20px;
+    color:white;
+}
+.prashu:hover{
+    color:rgb(59, 196, 6);
+}
+.sai-prasanth{
+    height: 100vh;
+    background-image: url("https://st2.depositphotos.com/3954803/7056/i/450/depositphotos_70567447-stock-photo-blue-grunge-background.jpg");
+    background-size: cover;
+}
+.item-nav{
+    color: white;
+}
+.item-nav:hover{
+    color: rgb(59, 196, 6);
+}
+.jampana{
+    margin-left: auto;
+}
+.rounded-circle{
+    height: 450px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    width: 250px;
+    position: absolute;
+    margin-left: 20px;
+    top: 150px;;
+    right:200px;
+}
+.about{
+    text-align: left;
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left:50px;
+    color:rgb(253, 255, 255);
+}
+.navin{
+    text-align: center;
+    margin-top: 50px;
+    font-size:50px;
+    color: white;
+}
+.ram{
+    text-align: center;
+    margin-top: 80px;
+    color: white;
+}
+.dady{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    color: white;
+}
+.mom{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    color: white;
+}
+.amma{
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+}
+.veena{
+    text-align: center;
+}
+.rev{
+    height: 400px;
+    border: 2px solid white;
+}
+.nav{
+    height: 400px;
+    border: 2px solid white;
+}
+body{
+    background-image: url("https://st2.depositphotos.com/3954803/7056/i/450/depositphotos_70567447-stock-photo-blue-grunge-background.jpg");
+    background-size: cover;
+}
+.akka:hover{
+    transform: scale(1.01);
+}
+.thammudu:hover{
+    transform: scale(1.01);
+}
+.connect{
+    color: white;
+    text-align: center;
+    color: yellowgreen;
+    margin-top: 30px;
+}
+.dm{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.Email{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.insta{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+}
